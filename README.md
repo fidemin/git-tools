@@ -1,3 +1,3 @@
 # git-tools
 
-# git-rebase.sh
+#@ usage: git-rebase.sh
